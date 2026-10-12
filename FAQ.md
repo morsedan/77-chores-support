@@ -316,7 +316,7 @@ Gateway Solutions to use any of its features.
 
 **Where can I read the full privacy policy?**
 
-The full privacy policy is available at [privacy policy URL]([https://github.com/morsedan/77-chores-support/blob/main/PRIVACY.md). For
+The full privacy policy is available at [privacy policy URL](https://github.com/morsedan/77-chores-support/blob/main/PRIVACY.md). For
 privacy-related questions, contact Emerald Gateway Solutions at
 77chores@77apps.dev.
 
