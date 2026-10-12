@@ -239,6 +239,8 @@ The app merges changes where it can — for example, if you add a member on one 
 
 The app continues working from the local copy on your device. Changes are synced when iCloud becomes available again.
 
+---
+
 **If I delete and reinstall the app, will my data come back?**
 
 ---
