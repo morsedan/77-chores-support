@@ -293,7 +293,17 @@ If your household is not appearing on a second device after several minutes:
 **Does 77 Chores collect personal information?**
 
 ---
-⚠️ *See "Questions to Verify Before Publishing" — defer to the published privacy policy.*
+
+77 Chores does not transmit your personal information to Emerald Gateway
+Solutions or any third party. The data you enter — your household name,
+member names, chores, and completion history — is stored on your device
+and, if you have iCloud Drive enabled, in your personal Apple iCloud
+account. It is not sent to our servers.
+
+The app does not require you to create an account, does not track your
+usage, and does not display advertising.
+
+For the complete privacy policy, visit [privacy policy URL].
 
 ---
 
