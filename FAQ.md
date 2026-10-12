@@ -294,16 +294,31 @@ If your household is not appearing on a second device after several minutes:
 
 ---
 
-77 Chores does not transmit your personal information to Emerald Gateway
-Solutions or any third party. The data you enter — your household name,
-member names, chores, and completion history — is stored on your device
-and, if you have iCloud Drive enabled, in your personal Apple iCloud
-account. It is not sent to our servers.
+**Does 77 Chores collect personal information?**
 
-The app does not require you to create an account, does not track your
-usage, and does not display advertising.
+77 Chores does not sell your personal information, does not use your
+household information for advertising, and does not include third-party
+analytics or crash-reporting services.
 
-For the complete privacy policy, visit [privacy policy URL].
+The data you enter — household names, member names, chores, and
+completion history — is stored on your device and, if you have iCloud
+enabled, in your personal Apple iCloud account. It is not sent to
+Emerald Gateway Solutions servers.
+
+Apple may collect diagnostic and usage information from your device
+according to your own device settings and Apple's privacy policy.
+Emerald Gateway Solutions does not control or receive that information.
+
+**Does using the app require an account?**
+
+No. 77 Chores does not require you to create an account with Emerald
+Gateway Solutions to use any of its features.
+
+**Where can I read the full privacy policy?**
+
+The full privacy policy is available at [privacy policy URL](https://github.com/morsedan/77-chores-support/edit/main/FAQ.md#:~:text=PRIVACY.md). For
+privacy-related questions, contact Emerald Gateway Solutions at
+77chores@77apps.dev.
 
 ---
 
