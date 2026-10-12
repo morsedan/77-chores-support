@@ -36,19 +36,21 @@ The App does not require you to create an account with Emerald Gateway Solutions
 
 We do not use household information for advertising.
 
-[Confirm before publishing: Describe here whether the App collects analytics, crash reports, diagnostics, or other information through Apple or third-party services. If it does not, you can state that the App does not collect analytics or diagnostic information.]
+The App does not include third-party analytics or crash-reporting services and does not independently collect analytics or diagnostic information. Apple may collect diagnostic and usage information according to your device settings and Apple's own policies.
 
 ## Data Retention and Deletion
 
-Household information is retained in the App's local storage and, where enabled, in iCloud.
+Household information is stored in the App's local storage and, where enabled, in iCloud.
 
-You can manage your household information through the App and your device's available storage and iCloud settings.
+You can manage household information through the App's available features. Information stored locally may be removed when you delete it through the App, depending on the operation performed.
 
-Deleting the App from a device may not remove copies of information that have already synchronized to iCloud or other devices. Consult Apple's documentation for information about managing and deleting iCloud data.
+Deleting the App from a device does not necessarily delete information that has already synchronized to iCloud or remains on other devices. To manage or remove iCloud-stored information, review your Apple Account and iCloud settings.
+
+If you need assistance with privacy-related questions, contact us using the information below.
 
 ## Children's Privacy
 
-The App is intended for general household use and is not specifically directed at children under 13. We do not knowingly collect personal information from children through a separate account or data collection system.
+The App is intended for general household use and is not specifically directed at children under 13. The App does not require users to create an account with Emerald Gateway Solutions, and we do not knowingly collect personal information from children through a separate account or data collection system.
 
 If you have questions or concerns about information associated with the App, contact us using the information below.
 
