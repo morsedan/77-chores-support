@@ -242,7 +242,6 @@ The app continues working from the local copy on your device. Changes are synced
 **If I delete and reinstall the app, will my data come back?**
 
 ---
-**If I delete and reinstall the app, will my data come back?**
 
 It depends on whether iCloud was enabled.
 
@@ -265,7 +264,23 @@ after reinstall.
 **I set up the household on one device. How long does sync to my other devices take?**
 
 ---
-⚠️ *See "Questions to Verify Before Publishing."*
+
+There is no fixed time — it depends on your network connection and iCloud's
+current state. On a good Wi-Fi connection, changes typically appear on other
+devices within a few seconds to a couple of minutes. On a slower or
+intermittent connection it may take longer.
+
+The app does not have a manual sync button or a progress indicator. Once both
+devices show "iCloud Drive — Syncing" in Settings → Storage, sync is active
+and will happen automatically in the background.
+
+If your household is not appearing on a second device after several minutes:
+
+1. Confirm both devices are signed into the same Apple Account.
+2. Confirm iCloud Drive is enabled on both devices in iOS Settings →
+   [your name] → iCloud → iCloud Drive.
+3. Check that both devices have an active internet connection.
+4. Close and reopen the app on the receiving device to prompt a refresh.
 
 ---
 
@@ -291,14 +306,63 @@ Your data is stored on your device and, if iCloud is enabled, in your personal i
 **Can I export my data?**
 
 ---
-⚠️ *See "Questions to Verify Before Publishing."*
+
+Yes. Go to **Settings → Backup & Restore → Export Backup** to save a
+complete backup of your household. This includes your household name,
+members, chores, rotation design, chore assignments, and all completion
+history.
+
+Tapping Export opens the iOS share sheet so you can save the file to
+Files, send it via AirDrop, email it to yourself, or use any other app
+that accepts files. The backup is a standard JSON file.
+
+**Can I restore from a backup?**
+
+Yes. Go to **Settings → Backup & Restore → Import Backup** and select
+your backup file.
+
+> **Important:** Importing replaces your entire current household,
+> rotation, and completion history with the contents of the backup file.
+> This cannot be undone. If you want to keep your current data, export a
+> backup of it first.
+
+**What does a backup contain?**
+
+A backup includes everything the app knows about your household:
+
+- Household name and members
+- Chore list and rotation design
+- Chore assignments
+- All completion and skip history
+
+It does not include app settings such as notification preferences.
 
 ---
 
 **How do I delete all my household data?**
 
 ---
-⚠️ *See "Questions to Verify Before Publishing" — the behavior of data deletion in iCloud needs confirmation.*
+
+Go to **Settings → Reset All Data** (at the bottom of the page). The app
+will ask you to confirm before proceeding.
+
+> **This cannot be undone.** Resetting permanently deletes your household
+> name, members, chores, rotation design, and all completion history. If
+> you want to keep a copy, use **Settings → Backup & Restore → Export
+> Backup** before resetting.
+
+**Does resetting on one device affect my other devices?**
+
+Yes. If iCloud Drive is enabled, the reset is written to your iCloud
+storage and will propagate to all your other devices signed into the same
+Apple Account. After a reset, all synced devices will show an empty
+household.
+
+**I reset by mistake. Can I recover my data?**
+
+Only if you previously exported a backup. If you have a backup file, go to
+**Settings → Backup & Restore → Import Backup** to restore it. If no
+backup exists, the data cannot be recovered.
 
 ---
 
