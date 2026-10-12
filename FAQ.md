@@ -242,7 +242,23 @@ The app continues working from the local copy on your device. Changes are synced
 **If I delete and reinstall the app, will my data come back?**
 
 ---
-⚠️ *See "Questions to Verify Before Publishing" — this behavior needs confirmation.*
+**If I delete and reinstall the app, will my data come back?**
+
+It depends on whether iCloud was enabled.
+
+**If iCloud Drive was enabled:** Yes. Your household data is stored in a
+dedicated iCloud container that persists independently of whether the app
+is installed. When you reinstall and open the app, it reconnects to that
+container and your data loads automatically — usually within a few seconds
+of launch.
+
+Note: if you manually deleted 77 Chores' storage from Settings → [your
+name] → iCloud → Manage Account Storage before reinstalling, that data
+will not be recoverable.
+
+**If iCloud was not enabled:** Your data was stored only on your device.
+Deleting the app permanently deletes that data. It cannot be recovered
+after reinstall.
 
 ---
 
